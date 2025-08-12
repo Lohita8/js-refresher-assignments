@@ -82,5 +82,5 @@ Type of myName: string
 Type of age: number
 Type of isStudent: boolean
 Type of favoriteColors: object
-Type of person: object
+Type of person: objectgit 
 */
